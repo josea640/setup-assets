@@ -1,8 +1,14 @@
+# Setup Assets
+
+Repositorio para guardar recursos visuales de mi setup en CachyOS/KDE.
+
+## Estructura
+
+```text
 setup-assets/
-├── README.md
 ├── discord/
 │   ├── backgrounds/
-│   ├── profiles/
+│   ├── themes/
 │   └── banners/
 ├── konsole/
 │   ├── saber-alter/
@@ -12,5 +18,4 @@ setup-assets/
 │   ├── desktop/
 │   └── phone/
 ├── icons/
-├── logos/
 └── misc/
